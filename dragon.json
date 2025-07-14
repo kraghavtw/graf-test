@@ -1,0 +1,54 @@
+{
+  "search_term": "dragon",
+  "timestamp": "2025-07-14T14:41:22Z",
+  "card_count": 5,
+  "cards": [
+    {
+      "name": "Dragon Roost",
+      "manaCost": "{4}{R}{R}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "set": "10E",
+      "text": "{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can't be blocked except by creatures with flying or reach.)",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143024\u0026type=card"
+    },
+    {
+      "name": "Dragon Roost",
+      "manaCost": "{4}{R}{R}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "set": "10E",
+      "text": "{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can't be blocked except by creatures with flying or reach.)"
+    },
+    {
+      "name": "Shivan Dragon",
+      "manaCost": "{4}{R}{R}",
+      "type": "Creature — Dragon",
+      "rarity": "Rare",
+      "set": "10E",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+      "power": "5",
+      "toughness": "5",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129730\u0026type=card"
+    },
+    {
+      "name": "Shivan Dragon",
+      "manaCost": "{4}{R}{R}",
+      "type": "Creature — Dragon",
+      "rarity": "Rare",
+      "set": "10E",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "name": "Dragon's Claw",
+      "manaCost": "{2}",
+      "type": "Artifact",
+      "rarity": "Uncommon",
+      "set": "10E",
+      "text": "Whenever a player casts a red spell, you may gain 1 life.",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129527\u0026type=card"
+    }
+  ]
+}
